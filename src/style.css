@@ -12,10 +12,10 @@
   --fw-700: 700;
   --fw-900: 900;
 
-  --clr-primary-200: hsla(169, 70%, 95%, 1);
+  --clr-primary-200: hsla(169, 26%, 95%, 1);
   --clr-primary-300: hsla(169, 100%, 39%, 1);
-  --clr-primary-400: hsla(169, 100%, 26%, 1);
-  --clr-primary-500: hsla(169, 100%, 16%, 1);
+  --clr-primary-400: hsla(192, 100%, 32%, 1);
+  --clr-primary-500: hsla(192, 100%, 26%, 1);
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
   --clr-neutral-300: hsla(0, 0%, 50%, 1);
@@ -384,4 +384,19 @@ section,
 .btn--neutral:focus {
   color: var(--clr-neutral-100);
   background-color: var(--clr-neutral-900);
+}
+
+/*Extra styles*/
+#read-more-btn{
+  font-size: 2.5rem;
+  padding-block: 0.6rem;
+  padding-inline: 1.5rem;
+
+}
+
+.hero__content{
+  background-image: url("/assets/joystick-outlines.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  
 }

@@ -1,9 +1,9 @@
 ---
-title: My Third Article
+title: PlayStation 5's year 2024 Looks Like This
 author: Tshepo Maseeme
-date: 2021-05-28
+date: 2023-05-28
 tags: ['post', 'featured']
-image: /assets/blog/article-3.jpg
+image: /assets/blog/ps5-table-aesthetic.jpg
 imageAlt: This is a test
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
