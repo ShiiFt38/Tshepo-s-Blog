@@ -2,7 +2,7 @@
 title: Best Free Storytelling Games on Mobile Right Now 2023
 author: Tshepo Maseeme
 date: 2023-10-28
-image: /assets/blog/cod-mobile-background.jpg
+image: /assets/blog/The-walking-dead.jpg
 imageAlt: Storytelling Games
 description: In the fast-paced world of mobile gaming, captivating narratives have become the cornerstone of a truly memorable gaming experience. As we step into 2023, the gaming landscape has evolved, offering an array of story-driven masterpieces that rival even their console and PC counterparts. In this article, we'll explore some of the best story games on mobile, delving into what makes them stand out in a sea of digital entertainment.
 ---
